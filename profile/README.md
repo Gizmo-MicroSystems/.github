@@ -5,4 +5,5 @@ Gizmo is an open-sourced foundation that focuses on software and hardware develo
 Check out the main repositories of the foundation such as **DreamStudio**, **TerryOS**, or **B# Programming Language**. 
 
 Join our discord https://discord.gg/gnP4hdzv
+
 Homepage https://homepage.xtechstax.duckdns.org/
